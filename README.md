@@ -1,2 +1,2 @@
-git-versioning-presentation
+Versioning .NET projects with git repositories
 ===========================
